@@ -1,6 +1,6 @@
 # 😎 Supreme-Title: Write your title with Supreme style
 
-![Look this style](media.png)
+![Look this style](https://raw.githubusercontent.com/vlourme/supreme-title/master/media.png)
 
 It is pretty useful as you can see and it fits in any projects 😙 
 
