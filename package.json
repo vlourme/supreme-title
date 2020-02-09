@@ -1,0 +1,19 @@
+{
+  "name": "supreme-title",
+  "version": "1.0.0",
+  "description": "An API to write your title with Supreme style",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlourme/supreme-title"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Lourme",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "figlet": "^1.2.4"
+  }
+}
